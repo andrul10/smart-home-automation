@@ -1,59 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<!-- Homepage - Main entry point -->
-<url>
-  <loc>https://andrul10.github.io/smart-home-automation/</loc>
-  <lastmod>2025-07-30T10:35:18+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>1.00</priority>
-</url>
-
-<!-- About Page - Company information -->
-<url>
-  <loc>https://andrul10.github.io/smart-home-automation/about.html</loc>
-  <lastmod>2025-07-30T10:35:18+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.70</priority>
-</url>
-
-<!-- Services Page - Core business offerings -->
-<url>
-  <loc>https://andrul10.github.io/smart-home-automation/services.html</loc>
-  <lastmod>2025-07-30T10:35:18+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.90</priority>
-</url>
-
-<!-- Blog Section - Content hub -->
-<url>
-  <loc>https://andrul10.github.io/smart-home-automation/blogs.html</loc>
-  <lastmod>2025-07-30T10:35:18+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-
-<!-- Contact Page - Lead generation -->
-<url>
-  <loc>https://andrul10.github.io/smart-home-automation/contact.html</loc>
-  <lastmod>2025-07-30T10:35:18+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.75</priority>
-</url>
-
-<!-- Individual Blog Posts (if they exist as separate pages) -->
-<!-- Note: These would need to be added if you create individual blog post pages -->
-<!-- Example format:
-<url>
-  <loc>https://andrul10.github.io/smart-home-automation/blog/automated-lighting-benefits.html</loc>
-  <lastmod>2025-07-15T12:00:00+00:00</lastmod>
-  <changefreq>never</changefreq>
-  <priority>0.60</priority>
-</url>
--->
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://andrul10.github.io/smart-home-automation/</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://andrul10.github.io/smart-home-automation/about.html</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://andrul10.github.io/smart-home-automation/services.html</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://andrul10.github.io/smart-home-automation/blogs.html</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://andrul10.github.io/smart-home-automation/contact.html</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
 </urlset>
